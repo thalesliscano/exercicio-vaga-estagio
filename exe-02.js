@@ -7,6 +7,7 @@ let input = 233;
 
 console.log(0)
 for (let i = 0; i >= 0; i++) {
+    // console.log(primeiroValor);  // Exibe o valor atual da sequência
 
     // Atualiza os valores para a próxima iteração
     let temp = segundoValor;
